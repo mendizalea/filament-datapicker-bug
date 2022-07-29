@@ -52,7 +52,6 @@ class PruebaResource extends Resource
 												'md' => 3,
 											]),
 									])
-									//->createItemButtonLabel('Add New Machinery')
 									->dehydrated()
 									->defaultItems(0)
 									->disableLabel()
